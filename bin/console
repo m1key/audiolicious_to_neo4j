@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "audiolicious_to_neo4j"
+
+include AudioliciousToNeo4j
+
+repo = SongRepo.new
+repo.all_songs.each do |song|
+  puts song
+end
+repo.close
