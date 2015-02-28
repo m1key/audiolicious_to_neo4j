@@ -22,7 +22,6 @@ module AudioliciousToNeo4j
     end
     
     def save(song)
-      puts "Saving #{song.key}"
       savedNode = Neo4j::Session.
           query(MERGE_SONG,artist: song.artist, album: song.album, album_key: song.album_key, name: song.name, song_key: song.key).first
       
@@ -33,7 +32,6 @@ module AudioliciousToNeo4j
     end
     
     def all_songs
-      puts 'Getting all songs...'
       Neo4j::Session.query(ALL_SONGS).
           map{|song| Song.new(song[:artist], song[:album], song[:name], song[:album_key], song[:key]) }
     end
