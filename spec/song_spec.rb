@@ -20,7 +20,7 @@ describe Song do
     artist = 'Metallica'
     album = 'Reload'
     name = 'Fuel'
-    song = Song.new(artist, album, name, nil, nil )
+    song = Song.new(artist, album, name, nil, nil)
     expect(song.key).to eq("#{artist}___#{album}___#{name}")
   end
 
@@ -30,6 +30,23 @@ describe Song do
     name = 'Fuel'
     song = Song.new(artist, album, name, nil, nil )
     expect(song.album_key).to eq("#{artist}___#{album}")
+  end
+
+  it 'equals another song with the same key' do
+    artist = 'Metallica'
+    album = 'Reload'
+    name = 'Fuel'
+    song1 = Song.new(artist, album, name, nil, nil)
+    song2 = Song.new(artist, album, name, nil, nil)
+    expect(song1).to eq(song2)
+  end
+
+  it 'does not equal another song with another' do
+    artist = 'Metallica'
+    album = 'Reload'
+    song1 = Song.new(artist, album, 'Fuel', nil, nil)
+    song2 = Song.new(artist, album, 'Memory Remains', nil, nil)
+    expect(song1).not_to eq(song2)
   end
   
 end

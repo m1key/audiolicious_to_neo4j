@@ -18,6 +18,10 @@ module AudioliciousToNeo4j
         @key = "#{artist}___#{album}___#{name}"
       end
     end
+
+    def ==(another_song)
+      self.key == another_song.key
+    end
     
     def to_s
       "Song [#{key}], artist [#{artist}], album [#{album}], name [#{name}]"
