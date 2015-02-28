@@ -22,6 +22,13 @@ describe SongRepo do
     @repo.save(song)
     expect(@repo.all_songs).to include(song), 'Song not saved correctly or not returned correctly.'
   end
+
+  it 'deletes all Audiolicious data' do
+    song = Song.new('Marilyn Manson', 'Holy Wood (In the Shadow of the Valley of Death)', 'Target Audience (Narcissus Narcosis)', nil, nil)
+    @repo.save(song)
+    @repo.delete_all
+    expect(@repo.all_songs.size).to eq(0), 'Not all Audiolicious data has been deleted.'
+  end
   
   after(:all) do
     @repo.close if @repo != nil

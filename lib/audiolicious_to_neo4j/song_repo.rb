@@ -13,6 +13,12 @@ module AudioliciousToNeo4j
       ' MERGE (song:Song {name:{name}, artist_album_song: {song_key}})'\
       ' MERGE (album)-[s:CONTAINS]->(song)'\
       ' RETURN artist.name as artist, album.name as album, album.artist_album as album_key, song.name as name, song.artist_album_song as key'
+
+    DELETE_ALL_SONG_RELATIONSHIPS = 'MATCH (song:Song)<-[r]-() DELETE r'
+    DELETE_ALL_ALBUM_RELATIONSHIPS = 'MATCH (album:Album)<-[r]-() DELETE r'
+    DELETE_ALL_SONGS = 'MATCH (song:Song) DELETE song'
+    DELETE_ALL_ALBUMS = 'MATCH (album:Album) DELETE album'
+    DELETE_ALL_ARTISTS = 'MATCH (artist:Artist) DELETE artist'
     
     def initialize
       puts 'Opening Neo4j session...'
@@ -34,6 +40,14 @@ module AudioliciousToNeo4j
     def all_songs
       Neo4j::Session.query(ALL_SONGS).
           map{|song| Song.new(song[:artist], song[:album], song[:name], song[:album_key], song[:key]) }
+    end
+    
+    def delete_all
+      Neo4j::Session.query(DELETE_ALL_SONG_RELATIONSHIPS)
+      Neo4j::Session.query(DELETE_ALL_ALBUM_RELATIONSHIPS)
+      Neo4j::Session.query(DELETE_ALL_SONGS)
+      Neo4j::Session.query(DELETE_ALL_ALBUMS)
+      Neo4j::Session.query(DELETE_ALL_ARTISTS)
     end
     
     def close
