@@ -6,6 +6,7 @@ require "audiolicious_to_neo4j"
 include AudioliciousToNeo4j
 
 repo = SongRepo.new
+repo.save(Song.new('Metallica', 'Reload', 'Devil\'s Dance', nil, nil))
 repo.all_songs.each do |song|
   puts song
 end
