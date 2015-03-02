@@ -1,0 +1,1993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2015-02-28T22:49:18Z</date>
+	<key>Application Version</key><string>12.1.1.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/M1key/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>10B7BF9345EC1A28</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4147</key>
+		<dict>
+			<key>Track ID</key><integer>4147</integer>
+			<key>Name</key><string>4 Way Diablo</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>4-Way Diablo</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6991746</integer>
+			<key>Total Time</key><integer>199680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-11-30T22:09:32Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3497689760</integer>
+			<key>Play Date UTC</key><date>2014-11-01T12:29:20Z</date>
+			<key>Release Date</key><date>2007-11-02T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>296AB50C9EFA5842</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/4-Way%20Diablo/01%204%20Way%20Diablo.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4149</key>
+		<dict>
+			<key>Track ID</key><integer>4149</integer>
+			<key>Name</key><string>Wall of Fire</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>4-Way Diablo</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7792466</integer>
+			<key>Total Time</key><integer>224546</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-11-30T22:09:32Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3497689984</integer>
+			<key>Play Date UTC</key><date>2014-11-01T12:33:04Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-11-11T17:33:21Z</date>
+			<key>Release Date</key><date>2007-11-02T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0136A09C14669EEC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/4-Way%20Diablo/02%20Wall%20of%20Fire.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4151</key>
+		<dict>
+			<key>Track ID</key><integer>4151</integer>
+			<key>Name</key><string>You're Alive</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>4-Way Diablo</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8406849</integer>
+			<key>Total Time</key><integer>243666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-11-30T22:09:33Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3497692263</integer>
+			<key>Play Date UTC</key><date>2014-11-01T13:11:03Z</date>
+			<key>Release Date</key><date>2007-11-02T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D2C4EEADB9CD43A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/4-Way%20Diablo/03%20You're%20Alive.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4153</key>
+		<dict>
+			<key>Track ID</key><integer>4153</integer>
+			<key>Name</key><string>Blow Your Mind</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>4-Way Diablo</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9174255</integer>
+			<key>Total Time</key><integer>267453</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-11-30T22:09:33Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3497707936</integer>
+			<key>Play Date UTC</key><date>2014-11-01T17:32:16Z</date>
+			<key>Release Date</key><date>2007-11-02T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E22351FAA4EBE64F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/4-Way%20Diablo/04%20Blow%20Your%20Mind.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4155</key>
+		<dict>
+			<key>Track ID</key><integer>4155</integer>
+			<key>Name</key><string>Cyclone</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>4-Way Diablo</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11272172</integer>
+			<key>Total Time</key><integer>332626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-11-30T22:09:33Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3497691414</integer>
+			<key>Play Date UTC</key><date>2014-11-01T12:56:54Z</date>
+			<key>Release Date</key><date>2007-11-02T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ABCF455E99A90E20</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/4-Way%20Diablo/05%20Cyclone.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4157</key>
+		<dict>
+			<key>Track ID</key><integer>4157</integer>
+			<key>Name</key><string>2000 Light Years from Home</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>4-Way Diablo</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9950623</integer>
+			<key>Total Time</key><integer>291573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-11-30T22:09:33Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3505651156</integer>
+			<key>Play Date UTC</key><date>2015-02-01T15:59:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-09-28T12:03:36Z</date>
+			<key>Release Date</key><date>2007-11-02T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>29C8C6CE73C7AD78</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/4-Way%20Diablo/06%202000%20Light%20Years%20from%20Home.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4159</key>
+		<dict>
+			<key>Track ID</key><integer>4159</integer>
+			<key>Name</key><string>No Vacation</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>4-Way Diablo</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10252997</integer>
+			<key>Total Time</key><integer>300986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-11-30T22:09:33Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3497707087</integer>
+			<key>Play Date UTC</key><date>2014-11-01T17:18:07Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-03-10T15:28:52Z</date>
+			<key>Release Date</key><date>2007-11-02T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>781954FEE7CEF143</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/4-Way%20Diablo/07%20No%20Vacation.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4161</key>
+		<dict>
+			<key>Track ID</key><integer>4161</integer>
+			<key>Name</key><string>I'm Calling You</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>4-Way Diablo</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8990170</integer>
+			<key>Total Time</key><integer>261800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-11-30T22:09:33Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3497690735</integer>
+			<key>Play Date UTC</key><date>2014-11-01T12:45:35Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-02-03T14:39:56Z</date>
+			<key>Release Date</key><date>2007-11-02T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4FE6DE1C4ECE1A30</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/4-Way%20Diablo/08%20I'm%20Calling%20You.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4163</key>
+		<dict>
+			<key>Track ID</key><integer>4163</integer>
+			<key>Name</key><string>Solid Gold</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>4-Way Diablo</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11871391</integer>
+			<key>Total Time</key><integer>351253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-11-30T22:09:33Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3497690473</integer>
+			<key>Play Date UTC</key><date>2014-11-01T12:41:13Z</date>
+			<key>Release Date</key><date>2007-11-02T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AD695849089D955C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/4-Way%20Diablo/09%20Solid%20Gold.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4165</key>
+		<dict>
+			<key>Track ID</key><integer>4165</integer>
+			<key>Name</key><string>Freeze and Pixelate</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>4-Way Diablo</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9118049</integer>
+			<key>Total Time</key><integer>265720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-11-30T22:09:33Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3496584509</integer>
+			<key>Play Date UTC</key><date>2014-10-19T17:28:29Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-09-29T21:29:18Z</date>
+			<key>Release Date</key><date>2007-11-02T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6188DDF355F694E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/4-Way%20Diablo/10%20Freeze%20and%20Pixelate.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4167</key>
+		<dict>
+			<key>Track ID</key><integer>4167</integer>
+			<key>Name</key><string>A Thousand Stars</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>4-Way Diablo</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11175631</integer>
+			<key>Total Time</key><integer>329626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-11-30T22:09:33Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3496584105</integer>
+			<key>Play Date UTC</key><date>2014-10-19T17:21:45Z</date>
+			<key>Release Date</key><date>2007-11-02T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Thousand Stars</string>
+			<key>Persistent ID</key><string>E173B302671C4123</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/4-Way%20Diablo/11%20A%20Thousand%20Stars.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4169</key>
+		<dict>
+			<key>Track ID</key><integer>4169</integer>
+			<key>Name</key><string>Slap In the Face</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>4-Way Diablo</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9144360</integer>
+			<key>Total Time</key><integer>266586</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-11-30T22:09:33Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3497691081</integer>
+			<key>Play Date UTC</key><date>2014-11-01T12:51:21Z</date>
+			<key>Release Date</key><date>2007-11-02T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7D4DA0E3F9ADE59F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/4-Way%20Diablo/12%20Slap%20In%20the%20Face.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4171</key>
+		<dict>
+			<key>Track ID</key><integer>4171</integer>
+			<key>Name</key><string>Little Bag of Gloom</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>4-Way Diablo</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5009340</integer>
+			<key>Total Time</key><integer>138160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2014-11-30T22:09:33Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3497690122</integer>
+			<key>Play Date UTC</key><date>2014-11-01T12:35:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-06-24T19:16:40Z</date>
+			<key>Release Date</key><date>2007-11-02T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D4A5C67453BC9084</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/4-Way%20Diablo/13%20Little%20Bag%20of%20Gloom.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4173</key>
+		<dict>
+			<key>Track ID</key><integer>4173</integer>
+			<key>Name</key><string>Melt</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Composer</key><string>Dave Wyndorf</string>
+			<key>Album</key><string>God Says No</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11774939</integer>
+			<key>Total Time</key><integer>344200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-30T21:59:39Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>57</integer>
+			<key>Play Date</key><integer>3500660315</integer>
+			<key>Play Date UTC</key><date>2014-12-05T21:38:35Z</date>
+			<key>Release Date</key><date>2000-10-27T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>32B451678F9643A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/God%20Says%20No/01%20Melt.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4175</key>
+		<dict>
+			<key>Track ID</key><integer>4175</integer>
+			<key>Name</key><string>Heads Explode</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Composer</key><string>Dave Wyndorf</string>
+			<key>Album</key><string>God Says No</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8015442</integer>
+			<key>Total Time</key><integer>228466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-30T21:59:39Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3496676585</integer>
+			<key>Play Date UTC</key><date>2014-10-20T19:03:05Z</date>
+			<key>Release Date</key><date>2000-10-27T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1ED2F75264080E3E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/God%20Says%20No/02%20Heads%20Explode.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4177</key>
+		<dict>
+			<key>Track ID</key><integer>4177</integer>
+			<key>Name</key><string>Doomsday</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Composer</key><string>Dave Wyndorf</string>
+			<key>Album</key><string>God Says No</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8054035</integer>
+			<key>Total Time</key><integer>228800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-30T21:59:39Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3496675035</integer>
+			<key>Play Date UTC</key><date>2014-10-20T18:37:15Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2014-12-05T21:44:13Z</date>
+			<key>Release Date</key><date>2000-10-27T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>11852596C7E37134</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/God%20Says%20No/03%20Doomsday.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4179</key>
+		<dict>
+			<key>Track ID</key><integer>4179</integer>
+			<key>Name</key><string>God Says No</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Composer</key><string>Dave Wyndorf</string>
+			<key>Album</key><string>God Says No</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9299309</integer>
+			<key>Total Time</key><integer>269960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-30T21:59:39Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3500661218</integer>
+			<key>Play Date UTC</key><date>2014-12-05T21:53:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-06-24T18:51:26Z</date>
+			<key>Release Date</key><date>2000-10-27T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7B56E1760A499C66</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/God%20Says%20No/04%20God%20Says%20No.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4181</key>
+		<dict>
+			<key>Track ID</key><integer>4181</integer>
+			<key>Name</key><string>Kiss of the Scorpion</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Composer</key><string>Dave Wyndorf</string>
+			<key>Album</key><string>God Says No</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8280102</integer>
+			<key>Total Time</key><integer>241093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-30T21:59:39Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3496677826</integer>
+			<key>Play Date UTC</key><date>2014-10-20T19:23:46Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-08-30T16:49:04Z</date>
+			<key>Release Date</key><date>2000-10-27T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B973A3D5A23C58B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/God%20Says%20No/05%20Kiss%20of%20the%20Scorpion.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4183</key>
+		<dict>
+			<key>Track ID</key><integer>4183</integer>
+			<key>Name</key><string>All Shook Out</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Composer</key><string>Dave Wyndorf</string>
+			<key>Album</key><string>God Says No</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8964124</integer>
+			<key>Total Time</key><integer>256400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-30T21:59:39Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3496675914</integer>
+			<key>Play Date UTC</key><date>2014-10-20T18:51:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-12-05T21:38:53Z</date>
+			<key>Release Date</key><date>2000-10-27T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0D2613179F377D01</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/God%20Says%20No/06%20All%20Shook%20Out.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4185</key>
+		<dict>
+			<key>Track ID</key><integer>4185</integer>
+			<key>Name</key><string>Gravity Well</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Composer</key><string>Dave Wyndorf</string>
+			<key>Album</key><string>God Says No</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6862856</integer>
+			<key>Total Time</key><integer>200493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-30T21:59:39Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3496675235</integer>
+			<key>Play Date UTC</key><date>2014-10-20T18:40:35Z</date>
+			<key>Release Date</key><date>2000-10-27T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0AA1ED96D44BB12E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/God%20Says%20No/07%20Gravity%20Well.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4187</key>
+		<dict>
+			<key>Track ID</key><integer>4187</integer>
+			<key>Name</key><string>My Little Friend</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Composer</key><string>Dave Wyndorf</string>
+			<key>Album</key><string>God Says No</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8823771</integer>
+			<key>Total Time</key><integer>252173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-30T21:59:39Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3496677296</integer>
+			<key>Play Date UTC</key><date>2014-10-20T19:14:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-12-05T21:38:57Z</date>
+			<key>Release Date</key><date>2000-10-27T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>00D23412F40B5DB0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/God%20Says%20No/08%20My%20Little%20Friend.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4189</key>
+		<dict>
+			<key>Track ID</key><integer>4189</integer>
+			<key>Name</key><string>Queen of You</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Composer</key><string>Dave Wyndorf</string>
+			<key>Album</key><string>God Says No</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>14199919</integer>
+			<key>Total Time</key><integer>422400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-30T21:59:39Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3496675658</integer>
+			<key>Play Date UTC</key><date>2014-10-20T18:47:38Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-08-20T23:48:43Z</date>
+			<key>Release Date</key><date>2000-10-27T07:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4503005826C4B02A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/God%20Says%20No/09%20Queen%20of%20You.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4191</key>
+		<dict>
+			<key>Track ID</key><integer>4191</integer>
+			<key>Name</key><string>Down in the Jungle</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Composer</key><string>Dave Wyndorf</string>
+			<key>Album</key><string>God Says No</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9955016</integer>
+			<key>Total Time</key><integer>289066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-30T21:59:40Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3500660948</integer>
+			<key>Play Date UTC</key><date>2014-12-05T21:49:08Z</date>
+			<key>Release Date</key><date>2000-10-27T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EF7A6D6912C362DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/God%20Says%20No/10%20Down%20in%20the%20Jungle.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4193</key>
+		<dict>
+			<key>Track ID</key><integer>4193</integer>
+			<key>Name</key><string>Cry</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Composer</key><string>Dave Wyndorf</string>
+			<key>Album</key><string>God Says No</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>14934344</integer>
+			<key>Total Time</key><integer>443333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-30T21:59:40Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3500661661</integer>
+			<key>Play Date UTC</key><date>2014-12-05T22:01:01Z</date>
+			<key>Release Date</key><date>2000-10-27T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A98C2336A03D852A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/God%20Says%20No/11%20Cry.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4195</key>
+		<dict>
+			<key>Track ID</key><integer>4195</integer>
+			<key>Name</key><string>Take It</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Composer</key><string>Dave Wyndorf</string>
+			<key>Album</key><string>God Says No</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5671500</integer>
+			<key>Total Time</key><integer>160173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-30T21:59:40Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3496676746</integer>
+			<key>Play Date UTC</key><date>2014-10-20T19:05:46Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-12-05T21:38:46Z</date>
+			<key>Release Date</key><date>2000-10-27T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1126A0650E193BC4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/God%20Says%20No/12%20Take%20It.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4197</key>
+		<dict>
+			<key>Track ID</key><integer>4197</integer>
+			<key>Name</key><string>Silver Future</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Composer</key><string>Dave Wyndorf</string>
+			<key>Album</key><string>God Says No</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10322628</integer>
+			<key>Total Time</key><integer>298493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-11-30T21:59:40Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3500660638</integer>
+			<key>Play Date UTC</key><date>2014-12-05T21:43:58Z</date>
+			<key>Release Date</key><date>2000-10-27T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>23B19388B97347C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/God%20Says%20No/13%20Silver%20Future.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4199</key>
+		<dict>
+			<key>Track ID</key><integer>4199</integer>
+			<key>Name</key><string>Slut Machine</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>Monolithic baby!</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7387405</integer>
+			<key>Total Time</key><integer>208960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-11-30T22:04:31Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3496593795</integer>
+			<key>Play Date UTC</key><date>2014-10-19T20:03:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-09-11T08:53:37Z</date>
+			<key>Release Date</key><date>2004-05-25T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CA9F3DAB096D2349</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/Monolithic%20baby!/01%20Slut%20Machine.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4201</key>
+		<dict>
+			<key>Track ID</key><integer>4201</integer>
+			<key>Name</key><string>Supercruel</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>Monolithic baby!</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7701785</integer>
+			<key>Total Time</key><integer>220440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-11-30T22:04:31Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3496596287</integer>
+			<key>Play Date UTC</key><date>2014-10-19T20:44:47Z</date>
+			<key>Release Date</key><date>2004-05-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>564412067FFBAA47</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/Monolithic%20baby!/02%20Supercruel.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4203</key>
+		<dict>
+			<key>Track ID</key><integer>4203</integer>
+			<key>Name</key><string>On the Verge</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>Monolithic baby!</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>12109418</integer>
+			<key>Total Time</key><integer>354760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-11-30T22:04:31Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3496594367</integer>
+			<key>Play Date UTC</key><date>2014-10-19T20:12:47Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-09-11T08:53:26Z</date>
+			<key>Release Date</key><date>2004-05-25T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>07CA3F77F7C9B933</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/Monolithic%20baby!/03%20On%20the%20Verge.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4205</key>
+		<dict>
+			<key>Track ID</key><integer>4205</integer>
+			<key>Name</key><string>Unbroken (Hotel Baby)</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>Monolithic baby!</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7774791</integer>
+			<key>Total Time</key><integer>222066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-11-30T22:04:31Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3498571980</integer>
+			<key>Play Date UTC</key><date>2014-11-11T17:33:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-11-11T17:33:26Z</date>
+			<key>Release Date</key><date>2004-05-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D578F7929C51477</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/Monolithic%20baby!/04%20Unbroken%20(Hotel%20Baby).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4207</key>
+		<dict>
+			<key>Track ID</key><integer>4207</integer>
+			<key>Name</key><string>Radiation Day</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>Monolithic baby!</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9901492</integer>
+			<key>Total Time</key><integer>288200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-11-30T22:04:31Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3464178855</integer>
+			<key>Play Date UTC</key><date>2013-10-09T15:54:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-04-10T19:15:15Z</date>
+			<key>Release Date</key><date>2004-05-25T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>654EF99C7290B070</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/Monolithic%20baby!/05%20Radiation%20Day.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4209</key>
+		<dict>
+			<key>Track ID</key><integer>4209</integer>
+			<key>Name</key><string>Monolithic</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>Monolithic baby!</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9802448</integer>
+			<key>Total Time</key><integer>283373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-11-30T22:04:31Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3496596067</integer>
+			<key>Play Date UTC</key><date>2014-10-19T20:41:07Z</date>
+			<key>Release Date</key><date>2004-05-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8F53BECD0F4CECF6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/Monolithic%20baby!/06%20Monolithic.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4211</key>
+		<dict>
+			<key>Track ID</key><integer>4211</integer>
+			<key>Name</key><string>The Right Stuff</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>Monolithic baby!</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9360290</integer>
+			<key>Total Time</key><integer>272026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-11-30T22:04:31Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3453268991</integer>
+			<key>Play Date UTC</key><date>2013-06-05T09:23:11Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2014-10-19T20:36:21Z</date>
+			<key>Release Date</key><date>2004-05-25T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Right Stuff</string>
+			<key>Persistent ID</key><string>D3D8C98ABFD86FC5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/Monolithic%20baby!/07%20The%20Right%20Stuff.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4213</key>
+		<dict>
+			<key>Track ID</key><integer>4213</integer>
+			<key>Name</key><string>There's No Way Out of Here</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>Monolithic baby!</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8677240</integer>
+			<key>Total Time</key><integer>250306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-11-30T22:04:32Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3496594617</integer>
+			<key>Play Date UTC</key><date>2014-10-19T20:16:57Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-06-24T18:29:56Z</date>
+			<key>Release Date</key><date>2004-05-25T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>80B947E3E35B8CC4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/Monolithic%20baby!/08%20There's%20No%20Way%20Out%20of%20Here.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4215</key>
+		<dict>
+			<key>Track ID</key><integer>4215</integer>
+			<key>Name</key><string>Master of Light</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>Monolithic baby!</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9796192</integer>
+			<key>Total Time</key><integer>284960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-11-30T22:04:32Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3496595768</integer>
+			<key>Play Date UTC</key><date>2014-10-19T20:36:08Z</date>
+			<key>Release Date</key><date>2004-05-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2AB56889B014D743</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/Monolithic%20baby!/09%20Master%20of%20Light.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4217</key>
+		<dict>
+			<key>Track ID</key><integer>4217</integer>
+			<key>Name</key><string>Too Bad</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>Monolithic baby!</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7532859</integer>
+			<key>Total Time</key><integer>213666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-11-30T22:04:32Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3493270401</integer>
+			<key>Play Date UTC</key><date>2014-09-11T08:53:21Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2014-11-12T17:26:24Z</date>
+			<key>Release Date</key><date>2004-05-25T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9E806E301FAC9C9A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/Monolithic%20baby!/10%20Too%20Bad.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4219</key>
+		<dict>
+			<key>Track ID</key><integer>4219</integer>
+			<key>Name</key><string>Ultimate Everything</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>Monolithic baby!</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>15054897</integer>
+			<key>Total Time</key><integer>445906</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-11-30T22:04:32Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3496595310</integer>
+			<key>Play Date UTC</key><date>2014-10-19T20:28:30Z</date>
+			<key>Release Date</key><date>2004-05-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0265B1548B65D26</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/Monolithic%20baby!/11%20Ultimate%20Everything.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4221</key>
+		<dict>
+			<key>Track ID</key><integer>4221</integer>
+			<key>Name</key><string>CNN War Theme</string>
+			<key>Artist</key><string>Monster Magnet</string>
+			<key>Album Artist</key><string>Monster Magnet</string>
+			<key>Album</key><string>Monolithic baby!</string>
+			<key>Genre</key><string>Stoner Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7497583</integer>
+			<key>Total Time</key><integer>217093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-11-30T22:04:32Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3496594012</integer>
+			<key>Play Date UTC</key><date>2014-10-19T20:06:52Z</date>
+			<key>Release Date</key><date>2004-05-25T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1CF104B2AEA1DDD2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Monster%20Magnet/Monolithic%20baby!/12%20CNN%20War%20Theme.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+
+
+
+		
+		<key>4629</key>
+		<dict>
+			<key>Track ID</key><integer>4629</integer>
+			<key>Name</key><string>Child of Burning Time (Bonus Track)</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Composer</key><string>Corey Taylor, Joey Jordison (Nathan Jordison), M. Shawn Crahan (Clown) &#38; Paul Gray</string>
+			<key>Album</key><string>All Hope Is Gone (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10627105</integer>
+			<key>Total Time</key><integer>309506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-03-17T18:07:50Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3502188813</integer>
+			<key>Play Date UTC</key><date>2014-12-23T14:13:33Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-02-25T19:40:02Z</date>
+			<key>Release Date</key><date>2008-08-22T07:00:00Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3A045CC9CAA931A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Slipknot/All%20Hope%20Is%20Gone%20(Special%20Edition)/13%20Child%20of%20Burning%20Time%20(Bonus%20Trac.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4631</key>
+		<dict>
+			<key>Track ID</key><integer>4631</integer>
+			<key>Name</key><string>742617000027</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Album</key><string>Slipknot</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>1724457</integer>
+			<key>Total Time</key><integer>35826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-06-08T11:44:55Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3501084056</integer>
+			<key>Play Date UTC</key><date>2014-12-10T19:20:56Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-01-26T18:51:19Z</date>
+			<key>Release Date</key><date>1999-06-29T12:00:00Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8877AA4E0237EC0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Slipknot/Slipknot/01%20742617000027.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4633</key>
+		<dict>
+			<key>Track ID</key><integer>4633</integer>
+			<key>Name</key><string>(Sic)</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Album</key><string>Slipknot</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7104913</integer>
+			<key>Total Time</key><integer>199933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-06-08T11:45:28Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>55</integer>
+			<key>Play Date</key><integer>3506698971</integer>
+			<key>Play Date UTC</key><date>2015-02-13T19:02:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-08-01T19:39:56Z</date>
+			<key>Release Date</key><date>1999-06-29T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>77074161A86BCF6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Slipknot/Slipknot/02%20(Sic).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4635</key>
+		<dict>
+			<key>Track ID</key><integer>4635</integer>
+			<key>Name</key><string>Eyeless</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Album</key><string>Slipknot</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8272924</integer>
+			<key>Total Time</key><integer>236373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-06-08T11:48:48Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3506696969</integer>
+			<key>Play Date UTC</key><date>2015-02-13T18:29:29Z</date>
+			<key>Release Date</key><date>1999-06-29T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B5CE197D638504F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Slipknot/Slipknot/03%20Eyeless.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4637</key>
+		<dict>
+			<key>Track ID</key><integer>4637</integer>
+			<key>Name</key><string>Wait and Bleed</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Album</key><string>Slipknot</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5385222</integer>
+			<key>Total Time</key><integer>147826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-06-08T11:52:44Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3506529301</integer>
+			<key>Play Date UTC</key><date>2015-02-11T19:55:01Z</date>
+			<key>Release Date</key><date>1999-06-29T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>36FF41BCCB2F5AB1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Slipknot/Slipknot/04%20Wait%20and%20Bleed.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4639</key>
+		<dict>
+			<key>Track ID</key><integer>4639</integer>
+			<key>Name</key><string>Surfacing (Rough Mix)</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Album</key><string>Slipknot</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7713690</integer>
+			<key>Total Time</key><integer>218106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-06-08T11:55:12Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3505143655</integer>
+			<key>Play Date UTC</key><date>2015-01-26T19:00:55Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-04-14T15:48:41Z</date>
+			<key>Release Date</key><date>1999-06-29T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0DBE7FCEAA53F1A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Slipknot/Slipknot/05%20Surfacing%20(Rough%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4641</key>
+		<dict>
+			<key>Track ID</key><integer>4641</integer>
+			<key>Name</key><string>Spit It Out</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Album</key><string>Slipknot</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5787470</integer>
+			<key>Total Time</key><integer>159760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-06-08T11:58:50Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3506528312</integer>
+			<key>Play Date UTC</key><date>2015-02-11T19:38:32Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-07-26T15:43:21Z</date>
+			<key>Release Date</key><date>1999-06-29T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B99E73F15634ADB6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Slipknot/Slipknot/06%20Spit%20It%20Out.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4643</key>
+		<dict>
+			<key>Track ID</key><integer>4643</integer>
+			<key>Name</key><string>Tattered &#38; Torn</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Album</key><string>Slipknot</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6229144</integer>
+			<key>Total Time</key><integer>173866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-06-08T14:06:14Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3496725773</integer>
+			<key>Play Date UTC</key><date>2014-10-21T08:42:53Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2015-01-14T19:27:36Z</date>
+			<key>Release Date</key><date>1999-06-29T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C6E3577E8F8CD56B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Slipknot/Slipknot/07%20Tattered%20&#38;%20Torn.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4645</key>
+		<dict>
+			<key>Track ID</key><integer>4645</integer>
+			<key>Name</key><string>Me Inside</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Album</key><string>Slipknot</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5781609</integer>
+			<key>Total Time</key><integer>159426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-06-08T14:09:06Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3496727095</integer>
+			<key>Play Date UTC</key><date>2014-10-21T09:04:55Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2015-02-13T18:25:27Z</date>
+			<key>Release Date</key><date>1999-06-29T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E25CAE1D9713C8F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Slipknot/Slipknot/08%20Me%20Inside.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4647</key>
+		<dict>
+			<key>Track ID</key><integer>4647</integer>
+			<key>Name</key><string>Liberate</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Album</key><string>Slipknot</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6592040</integer>
+			<key>Total Time</key><integer>186533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-06-08T14:11:45Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3507305991</integer>
+			<key>Play Date UTC</key><date>2015-02-20T19:39:51Z</date>
+			<key>Release Date</key><date>1999-06-29T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0E5489888FB33E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Slipknot/Slipknot/09%20Liberate.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4649</key>
+		<dict>
+			<key>Track ID</key><integer>4649</integer>
+			<key>Name</key><string>Prosthetics</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Album</key><string>Slipknot</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10272900</integer>
+			<key>Total Time</key><integer>298173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-06-08T14:14:52Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3490680225</integer>
+			<key>Play Date UTC</key><date>2014-08-12T09:23:45Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2014-10-21T08:45:48Z</date>
+			<key>Release Date</key><date>1999-06-29T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB579C8AC2106461</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Slipknot/Slipknot/10%20Prosthetics.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4651</key>
+		<dict>
+			<key>Track ID</key><integer>4651</integer>
+			<key>Name</key><string>No Life</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Album</key><string>Slipknot</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6029547</integer>
+			<key>Total Time</key><integer>167360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-06-07T23:20:58Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3505922540</integer>
+			<key>Play Date UTC</key><date>2015-02-04T19:22:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-01-26T19:08:42Z</date>
+			<key>Release Date</key><date>1999-06-29T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4F33E95D3F87D73F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Slipknot/Slipknot/11%20No%20Life.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4653</key>
+		<dict>
+			<key>Track ID</key><integer>4653</integer>
+			<key>Name</key><string>Diluted</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Album</key><string>Slipknot</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7187206</integer>
+			<key>Total Time</key><integer>203200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-06-06T18:43:38Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3501170538</integer>
+			<key>Play Date UTC</key><date>2014-12-11T19:22:18Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2015-02-11T20:03:34Z</date>
+			<key>Release Date</key><date>1999-06-29T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>94252C314426C1C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Slipknot/Slipknot/12%20Diluted.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4655</key>
+		<dict>
+			<key>Track ID</key><integer>4655</integer>
+			<key>Name</key><string>Only One</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Album</key><string>Slipknot</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5283791</integer>
+			<key>Total Time</key><integer>146440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-06-06T18:42:28Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3496727384</integer>
+			<key>Play Date UTC</key><date>2014-10-21T09:09:44Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-12-08T19:54:56Z</date>
+			<key>Release Date</key><date>1999-06-29T12:00:00Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1985E0B078DEA6AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Slipknot/Slipknot/13%20Only%20One.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4657</key>
+		<dict>
+			<key>Track ID</key><integer>4657</integer>
+			<key>Name</key><string>Scissors</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Album</key><string>Slipknot</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>17033151</integer>
+			<key>Total Time</key><integer>505045</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-06-06T18:43:18Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3342374295</integer>
+			<key>Play Date UTC</key><date>2009-11-29T21:18:15Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2015-02-04T19:48:50Z</date>
+			<key>Release Date</key><date>1999-06-29T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8F5EA5A1DA96789C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Slipknot/Slipknot/14%20Scissors.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4659</key>
+		<dict>
+			<key>Track ID</key><integer>4659</integer>
+			<key>Name</key><string>Eeyore</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Album</key><string>Slipknot</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5973619</integer>
+			<key>Total Time</key><integer>166097</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-06-06T18:43:04Z</date>
+			<key>Date Added</key><date>2013-04-10T22:14:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3501083826</integer>
+			<key>Play Date UTC</key><date>2014-12-10T19:17:06Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2015-01-30T19:04:06Z</date>
+			<key>Release Date</key><date>1999-06-29T12:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9750EABFDEDEAD7E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/Slipknot/Slipknot/15%20Eeyore.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

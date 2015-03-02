@@ -20,6 +20,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_runtime_dependency "neo4j-core", ["= 4.0.2"]
+  spec.add_runtime_dependency "nokogiri", "~> 1.6.6.2"
   spec.add_development_dependency "bundler", "~> 1.8"
   spec.add_development_dependency "rspec", "= 3.2.0"
   spec.add_development_dependency "rake", "~> 10.0"
